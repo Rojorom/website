@@ -20,7 +20,7 @@ body{
 
  }
     .header{
-        background: url(personal-branding.jpg);
+        background: url(gh-pages/personal-branding.jpg);
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
